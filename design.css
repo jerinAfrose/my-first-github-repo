@@ -1,0 +1,15 @@
+p,h2{
+    font: italic;
+}
+
+#fam{
+    background-color: blueviolet;
+    border: 10px solid saddlebrown;
+    color: black;
+}
+
+.food{
+    background-color: rgb(151, 237, 85);
+    /* padding: 10px; */
+    border: 20px solid sandybrown;
+}
